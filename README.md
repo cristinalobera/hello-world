@@ -1,5 +1,6 @@
 # hello-world
 Ejemplo #1: Github
+<<<<<<< HEAD
 
 *BESOS**BESOS* 
 *BESOS*.....*BESOS* 
@@ -60,3 +61,5 @@ Ejemplo #1: Github
 (\__/)
 (>’.’<)
 (“)_(“)
+=======
+>>>>>>> parent of 93557b2... Update README.md
