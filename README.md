@@ -55,3 +55,8 @@ Ejemplo #1: Github
 .*BESOS*.......*BESOS* 
 ...*BESOS*...*BESOS* 
 ...........*BESOS
+
+
+(\__/)
+(>’.’<)
+(“)_(“)
